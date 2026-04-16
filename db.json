@@ -1,0 +1,41 @@
+{
+  "mode_reglement": [
+    {
+      "code":"ES"
+	  "uid_r":"01d268d8-fed9-41dd-9373-19d06059a289",
+	  "nom": "Espèces",
+	  "si_active_regie":true,
+	  "si_active_mobile":true
+    },
+	{
+      "code":"CH"
+	  "uid_r":"01d268d8-fed9-41dd-9373-19d06059a289",
+	  "nom": "Chèque",
+	  "nom_champ_sup":"Numero",
+	  "si_active_regie":true,
+	  "si_active_mobile":true
+    },
+	{
+      "code":"ES"
+	  "uid_r":"f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	  "nom": "Espèces",
+	  "si_active_regie":true,
+	  "si_active_mobile":true
+    },
+	{
+      "code":"CB"
+	  "uid_r":"f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	  "nom": "Carte bancaire",
+	  "si_active_regie":true,
+	  "si_active_mobile":true
+    },
+	{
+      "code":"CH"
+	  "uid_r":"f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	  "nom": "Chèque",
+	  "nom_champ_sup":"Numero",
+	  "si_active_regie":true,
+	  "si_active_mobile":true
+    }
+  ]
+}
