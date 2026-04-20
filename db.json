@@ -4,6 +4,7 @@
       "code":"ES",
 	  "uid_r":"01d268d8-fed9-41dd-9373-19d06059a289",
 	  "nom": "Espèces",
+	  "mobile_bouton":1,
 	  "si_active_regie":true,
 	  "si_active_mobile":true
     },
@@ -19,6 +20,7 @@
       "code":"ES",
 	  "uid_r":"f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
 	  "nom": "Espèces",
+	  "mobile_bouton":2,
 	  "si_active_regie":true,
 	  "si_active_mobile":true
     },
@@ -26,6 +28,7 @@
       "code":"CB",
 	  "uid_r":"f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
 	  "nom": "Carte bancaire",
+	  "mobile_bouton":1,
 	  "si_active_regie":true,
 	  "si_active_mobile":true
     },
@@ -34,6 +37,7 @@
 	  "uid_r":"f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
 	  "nom": "Chèque",
 	  "nom_champ_sup":"Numero",
+	  "mobile_bouton":3,
 	  "si_active_regie":true,
 	  "si_active_mobile":true
     }
