@@ -40,6 +40,13 @@
 	  "mobile_bouton":3,
 	  "si_active_regie":true,
 	  "si_active_mobile":true
+    },
+	{
+      "code":"GR",
+	  "uid_r":"f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
+	  "nom": "Gratuité",
+	  "si_active_regie":true,
+	  "si_active_mobile":true
     }
   ]
 }
